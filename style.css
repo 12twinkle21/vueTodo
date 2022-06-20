@@ -65,6 +65,7 @@ body {
    box-sizing: border-box;
    outline: none;
    transition: 0.2s border;
+   font-size: 16px;
  }
  
  .header .container .form input:focus {
